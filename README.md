@@ -233,27 +233,18 @@ I sincerely thank the **Journal of Open Research Software (JORS)** for providing
 
 ##  🧩 Citation
 
-NOS-TLPlot Python package is cited:
-
-> **Sahu, V. (2026). NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.2) [Python package]. Zenodo.**
-DOI: [10.5281/zenodo.24380517](https://doi.org/10.5281/zenodo.24380517)
-
-
 NOS-TLPlot Software Metapaper is cited: **[PREFERRED]**
 
 > **Sahu, V. (2026). NOS-TLPlot: A Specialized Python Tool for Visualizing Newcastle–Ottawa Scale Risk-of-Bias Assessments. *Journal of Open Research Software*, 14(1), 7.**
 DOI: [10.5334/jors.635](https://doi.org/10.5334/jors.635)
 
-```bibtex
-@software{Sahu2026package,
-  author = {Sahu, Vihaan},
-  title = {NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.2)},
-  year = {2026},
-  doi = {10.5281/zenodo.24380517},
-  url = {https://doi.org/10.5281/zenodo.24380517},
-  version = {3.0.2}
-}
 
+If you want to cite the code specifically, the NOS-TLPlot Python package is cited:
+
+> **Sahu, V. (2026). NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.2) [Python package]. Zenodo.**
+DOI: [10.5281/zenodo.24380517](https://doi.org/10.5281/zenodo.24380517)
+
+```bibtex
 @article{Sahu2026,
   author = {Sahu, Vihaan},
   title = {NOS-TLPlot: A Specialized Python Tool for Visualizing Newcastle–Ottawa Scale Risk-of-Bias Assessments},
@@ -264,6 +255,15 @@ DOI: [10.5334/jors.635](https://doi.org/10.5334/jors.635)
   year = {2026},
   doi = {10.5334/jors.635},
   url = {https://doi.org/10.5334/jors.635}
+}
+
+@software{Sahu2026package,
+  author = {Sahu, Vihaan},
+  title = {NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.2)},
+  year = {2026},
+  doi = {10.5281/zenodo.24380517},
+  url = {https://doi.org/10.5281/zenodo.24380517},
+  version = {3.0.2}
 }
 ```
 
