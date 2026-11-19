@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nos-tlplot"
+version = "3.0.1"
+description = "Visualization Tool for Newcastle–Ottawa Scale Risk-of-Bias Assessments"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+authors = [
+    { name = "Vihaan Sahu", email = "pteroisvolitans12@gmail.com" }
+]
+keywords = ["newcastle-ottawa-scale", "risk-of-bias", "meta-analysis", "systematic-review", "traffic-light-plot", "visualization"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: Visualization",
+]
+dependencies = [
+    "numpy==2.5.2",
+    "pandas==3.0.5",
+    "matplotlib==3.11.1",
+    "seaborn==0.13.2",
+    "pyarrow==25.0.1",
+    "openpyxl==3.1.5",
+    "Pillow==13.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-mock",
+    "build",
+    "twine",
+]
+
+[project.urls]
+Homepage = "https://github.com/aurumz-rgb/NOS-TLPlot"
+Repository = "https://github.com/nos-tlplot/NOS-TLPlot-Package"
+Documentation = "https://nos-tlplot.github.io"
+"Streamlit Demo" = "https://nos-tlplot.streamlit.app"
+"Metapaper" = "https://doi.org/10.5334/jors.635"
+"DOI" = "https://doi.org/10.5281/zenodo.17065214"
+
+[project.scripts]
+nos-tlplot = "nos_tlplot.core:main"
+
+[tool.setuptools]
+packages = ["nos_tlplot"]
