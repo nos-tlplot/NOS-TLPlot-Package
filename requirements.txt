@@ -1,0 +1,10 @@
+numpy==2.5.2
+pandas==3.0.5
+matplotlib==3.11.1
+seaborn==0.13.2
+streamlit==1.67.0
+pyarrow==25.0.1
+openpyxl==3.1.5
+pytest
+pytest-mock
+Pillow==13.0.0
