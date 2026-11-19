@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.12+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-orange)](https://nos-tlplot.streamlit.app)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17065214.svg)](https://doi.org/10.5281/zenodo.17065214)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24380517.svg)](https://doi.org/10.5281/zenodo.24380517)
 [![JORS](https://img.shields.io/badge/Journal-JORS-blue)](https://doi.org/10.5334/jors.635)
 
 
@@ -233,10 +233,10 @@ I sincerely thank the **Journal of Open Research Software (JORS)** for providing
 
 ##  🧩 Citation
 
-NOS-TLPlot Software code is cited:
+NOS-TLPlot Python package is cited:
 
-> **Sahu, V. (2025). NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.0). Zenodo.**
-DOI: [10.5281/zenodo.17065214](https://doi.org/10.5281/zenodo.17065214)
+> **Sahu, V. (2026). NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.1) [Python package]. Zenodo.**
+DOI: [10.5281/zenodo.24380517](https://doi.org/10.5281/zenodo.24380517)
 
 
 NOS-TLPlot Software Metapaper is cited: **[PREFERRED]**
@@ -245,13 +245,13 @@ NOS-TLPlot Software Metapaper is cited: **[PREFERRED]**
 DOI: [10.5334/jors.635](https://doi.org/10.5334/jors.635)
 
 ```bibtex
-@software{Sahu2025,
+@software{Sahu2026package,
   author = {Sahu, Vihaan},
-  title = {NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.0)},
-  year = {2025},
-  doi = {10.5281/zenodo.17065214},
-  url = {https://doi.org/10.5281/zenodo.17065214},
-  version = {3.0.0}
+  title = {NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.1)},
+  year = {2026},
+  doi = {10.5281/zenodo.24380517},
+  url = {https://doi.org/10.5281/zenodo.24380517},
+  version = {3.0.1}
 }
 
 @article{Sahu2026,

@@ -48,7 +48,7 @@ Repository = "https://github.com/nos-tlplot/NOS-TLPlot-Package"
 Documentation = "https://nos-tlplot.github.io"
 "Streamlit Demo" = "https://nos-tlplot.streamlit.app"
 "Metapaper" = "https://doi.org/10.5334/jors.635"
-"DOI" = "https://doi.org/10.5281/zenodo.17065214"
+"DOI" = "https://doi.org/10.5281/zenodo.24380517"
 
 [project.scripts]
 nos-tlplot = "nos_tlplot.core:main"
