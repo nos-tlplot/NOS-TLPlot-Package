@@ -1,0 +1,5 @@
+include CITATION.cff
+include requirements.txt
+include sample.csv
+include sample.xlsx
+recursive-include tests *.py
