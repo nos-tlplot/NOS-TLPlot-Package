@@ -45,7 +45,7 @@ pip install nos-tlplot
 To work on the code from a clone instead:
 
 ```bash
-git clone <this repository>
+git clone https://github.com/nos-tlplot/NOS-TLPlot-Package.git
 cd NOS-TLPlot-Package
 pip install -e ".[dev]"
 ```

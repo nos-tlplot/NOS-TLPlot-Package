@@ -45,6 +45,7 @@ dev = [
 
 [project.urls]
 Homepage = "https://github.com/aurumz-rgb/NOS-TLPlot"
+Repository = "https://github.com/nos-tlplot/NOS-TLPlot-Package"
 Documentation = "https://nos-tlplot.github.io"
 "Streamlit Demo" = "https://nos-tlplot.streamlit.app"
 "Metapaper" = "https://doi.org/10.5334/jors.635"
