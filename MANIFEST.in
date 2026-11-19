@@ -1,0 +1,4 @@
+include CITATION.cff
+include requirements.txt
+include .streamlit/config.toml
+recursive-include tests *.py
