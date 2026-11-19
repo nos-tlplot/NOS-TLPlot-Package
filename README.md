@@ -235,7 +235,7 @@ I sincerely thank the **Journal of Open Research Software (JORS)** for providing
 
 NOS-TLPlot Python package is cited:
 
-> **Sahu, V. (2026). NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.1) [Python package]. Zenodo.**
+> **Sahu, V. (2026). NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.2) [Python package]. Zenodo.**
 DOI: [10.5281/zenodo.24380517](https://doi.org/10.5281/zenodo.24380517)
 
 
@@ -247,11 +247,11 @@ DOI: [10.5334/jors.635](https://doi.org/10.5334/jors.635)
 ```bibtex
 @software{Sahu2026package,
   author = {Sahu, Vihaan},
-  title = {NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.1)},
+  title = {NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis (v3.0.2)},
   year = {2026},
   doi = {10.5281/zenodo.24380517},
   url = {https://doi.org/10.5281/zenodo.24380517},
-  version = {3.0.1}
+  version = {3.0.2}
 }
 
 @article{Sahu2026,

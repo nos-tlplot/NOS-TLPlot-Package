@@ -6,4 +6,4 @@ from nos_tlplot.core import (
     plot_nos_visualization, read_input_file,
 )
 
-__version__ = "3.0.1"
+__version__ = "3.0.2"
