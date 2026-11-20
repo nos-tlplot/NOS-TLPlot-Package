@@ -100,6 +100,7 @@ This generates the traffic-light plot plus the 12 companion figures (`_radar`, `
 | -------------------- | --------------------------------------- |
 | `_traffic-light.png` | Classic traffic-light bubble plot       |
 | `_radar.png`         | Radar chart of domain scores            |
+| `_theme_radar.png`   | Theme-adapted radar chart               |
 | `_heatmap.png`       | Color heatmap for domain-level bias     |
 | `_item_heatmap.png`  | Item-level star heatmap with domain bands |
 | `_dot_profile.png`   | Stacked domain stars per study          |
@@ -121,7 +122,7 @@ The interactive web app lives in the [main repository](https://github.com/aurumz
 
 * Upload CSV/Excel files
 * Real-time visualization preview
-* Choose from 12 plot types
+* Choose from 13 plot types
 * Download publication-ready figures in multiple formats
 * Theme switcher (Traffic-light / Grayscale / Ocean / Sage)
 
