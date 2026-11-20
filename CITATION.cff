@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the following metadata."
-title: "NOS-TLPlot: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis"
+title: "NOS-TLPlot Python Package: Visualization Tool for Newcastle–Ottawa Scale in Meta-Analysis"
 version: "3.0.2"
 doi: "10.5281/zenodo.24380517"
 date-released: 2026-11-20
